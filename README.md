@@ -17,9 +17,9 @@ Priyank Negi
 
 Wenxuan Yan
 
+<br>
 
-
-**Project objective:**
+**Project objective:**<br>
 Our exploration will enable us to identify taxi trip patterns in NYC and develop strategies accordingly to improve revenue for taxi drivers and taxi companies.
 
 We combined datasets from 2018 to 2021 to draw more insight from our analysis. As data from 2020 onwards show the impact of the pandemic on taxi demand, providing information from the two years prior to the pandemic would lead to a more accurate interpretation of results.
