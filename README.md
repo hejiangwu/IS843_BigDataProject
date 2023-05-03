@@ -17,9 +17,7 @@ Priyank Negi
 
 Wenxuan Yan
 
-
-
-
+	
 **Project objective:**<br>
 Our exploration will enable us to identify taxi trip patterns in NYC and develop strategies accordingly to improve revenue for taxi drivers and taxi companies.
 
