@@ -11,7 +11,7 @@ Gabriela Vargas Horle
 
 Harshil Thakkar 
 
-Heijang Wu 
+Hejiang Wu 
 
 Priyank Negi 
 
